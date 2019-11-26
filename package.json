@@ -1,0 +1,21 @@
+{
+  "name": "circle-ci-test",
+  "version": "1.0.0",
+  "description": "circle CI and jest testing",
+  "main": "src/math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "continuous",
+    "integration",
+    "and",
+    "jest",
+    "testing"
+  ],
+  "author": "MR-yuhuashi",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
